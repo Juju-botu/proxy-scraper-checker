@@ -31,8 +31,8 @@ jobs:
           sed -i "s/TIMEOUT = 5/TIMEOUT = 10/g" config.py
           sed -i "s/ident.me/checkip.amazonaws.com/g" config.py
           python main.py
-          - name: "Move new proxies"
-          run: |
+      - name: "Move new proxies"
+        run: |
           mv proxy-scraper-checker/proxies* .
       - name: "Commit"
         run: |
