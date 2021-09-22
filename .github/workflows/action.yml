@@ -33,7 +33,8 @@ jobs:
           python main.py
       - name: "Move new proxies"
         run: |
-          mv -f proxy-scraper-checker/proxies* .
+          rm -rf proxies*
+          mv proxy-scraper-checker/proxies* .
       - name: "Commit"
         run: |
           git config user.name ${{ secrets.USERNAME }}
