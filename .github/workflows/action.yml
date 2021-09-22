@@ -1,0 +1,48 @@
+name: Update proxies
+on:
+  schedule:
+    - cron: "* * * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout repo"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: "Checkout Juju-botu/proxy-scraper-checker"
+        uses: actions/checkout@v2
+        with:
+          repository: Juju-botu/proxy-scraper-checker
+          path: proxy-scraper-checker
+          fetch-depth: 1
+      - name: "Setup Python"
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: "Install dependencies"
+        run: |
+          python -m pip install -U pip setuptools wheel
+          python -m pip install -r proxy-scraper-checker/requirements.txt
+      - name: "Run proxy-scraper-checker"
+        run: |
+          cd proxy-scraper-checker
+          sed -i "s/TIMEOUT = 5/TIMEOUT = 10/g" config.py
+          sed -i "s/ident.me/checkip.amazonaws.com/g" config.py
+          python main.py
+#       - name: "Move new proxies"
+#         run: |
+#           rm -rf proxies*
+#           mv proxy-scraper-checker/proxies* .
+#           rm -rf proxy-scraper-checker
+      - name: "Commit"
+        run: |
+          git config user.name ${{ secrets.USERNAME }}
+          git config user.email ${{ secrets.EMAIL }}
+          git checkout --orphan latest_branch
+          git add -A
+          git commit -am "$(wc -l < proxies/http.txt) http, $(wc -l < proxies/socks4.txt) socks4, $(wc -l < proxies/socks5.txt) socks5"
+          git branch -D main
+          git branch -m main
+          git push -f origin main
