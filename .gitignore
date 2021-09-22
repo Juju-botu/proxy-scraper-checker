@@ -1,5 +1,7 @@
 __pycache__/
-proxies/
-proxies_anonymous/
-proxies_geolocation/
-proxies_geolocation_anonymous/
+
+## Keep these directories
+# proxies/
+# proxies_anonymous/
+# proxies_geolocation/
+# proxies_geolocation_anonymous/
