@@ -38,8 +38,6 @@ jobs:
         run: |
           git config user.name ${{ secrets.USERNAME }}
           git config user.email ${{ secrets.EMAIL }}         
-          git checkout --orphan latest_branch
           git add -A
           git commit -am "$(wc -l < proxies/http.txt) http, $(wc -l < proxies/socks4.txt) socks4, $(wc -l < proxies/socks5.txt) socks5"
-          git branch -m main
           git push -f origin main
