@@ -1,54 +1,36 @@
-8.210.163.246:50034::Netherlands::Flevoland::Dronten
-31.25.243.40:9498::Netherlands::Drenthe::Meppel
-31.25.243.40:9522::Germany::None::None
-47.75.113.110:10004::Hong Kong::Central and Western District::Central
-47.75.113.110:10015::Hong Kong::Central and Western District::Central
+20.52.130.140:16379::United States::None::None
 51.81.31.62:13255::United States::Florida::Hudson
 51.81.31.169:10686::United States::Mississippi::Bay Springs
-52.80.153.1:1080::United States::California::Los Angeles
-54.164.207.56:9050::Germany::Bavaria::Nuremberg
-62.182.158.28:8000::India::Telangana::Hyderabad
-69.163.160.123:17316::United States::California::Brea
 81.70.85.112:8800::China::Beijing::Beijing
 85.175.100.26:2067::Russia::Rostov Oblast::None
-95.169.186.58:9058::Luxembourg::Luxembourg::Luxembourg
 103.73.74.177:1080::Indonesia::West Java::Karawang
-103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
+103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
 104.255.170.63:59004::United States::Oregon::Bend
 104.255.170.65:56285::United States::Oregon::Bend
 104.255.170.67:51676::United States::Oregon::Bend
-104.255.170.69:58190::United States::Oregon::Bend
+104.255.170.69:64501::United States::Oregon::Bend
 106.52.65.141:8081::China::Zhejiang::Hangzhou
-111.164.88.250:1080::Hong Kong::None::Cheung Sha Lan
-113.116.131.243:23500::China::Guangdong::Beijing
-114.239.153.241:9999::Italy::None::None
-117.247.87.253:1080::India::Madhya Pradesh::Indore
-119.123.78.96:1080::Hong Kong::Sai Kung District::Tseung Kwan O
 124.78.201.125:1080::Hong Kong::Kowloon City::Kowloon
-146.59.178.52:9300::France::None::None
-159.65.69.186:9200::United States::None::None
+159.69.204.95:9100::Switzerland::Zurich::Zurich
 159.253.45.30:8000::Turkey::None::None
-162.144.64.112:10555::United States::None::None
+162.144.64.112:14440::United States::None::None
 162.144.64.112:17329::United States::None::None
+162.144.64.112:23393::United States::None::None
 162.144.64.112:23779::United States::None::None
-162.144.64.112:35851::United States::None::None
-162.144.64.112:38067::United States::None::None
-162.144.64.112:56857::United States::None::None
-166.62.52.52:31337::United States::None::None
-167.71.236.109:9053::United States::None::None
+162.144.64.112:24030::United States::None::None
+172.104.90.60:10031::Netherlands::Flevoland::Dronten
 173.236.186.64:20888::United States::None::None
 173.236.186.215:20888::United States::None::None
 173.236.187.82:20888::United States::None::None
 173.236.187.137:20888::United States::None::None
 173.236.187.144:20888::United States::None::None
 173.236.189.144:20888::United States::None::None
+180.164.54.83:7890::Hong Kong::None::None
 181.3.102.239:1080::Argentina::Santa Fe::Rosario
+183.240.203.136:1080::Hong Kong::None::None
+185.36.132.223:9050::Netherlands::None::None
 185.179.196.19:1080::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1090::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1095::Russia::St.-Petersburg::St Petersburg
-192.3.176.138:1080::Netherlands::None::None
 192.154.244.175:9000::United States::Pennsylvania::Cementon
+209.97.175.37:9050::United States::None::None
 212.129.34.117:65024::United States::New Mexico::Albuquerque
-213.186.119.38:59311::Ukraine::None::None
 222.186.10.227:1080::United States::California::Los Angeles
-223.166.75.173:1080::Hong Kong::Central and Western District::Central
