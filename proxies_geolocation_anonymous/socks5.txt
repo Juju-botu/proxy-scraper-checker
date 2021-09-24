@@ -1,58 +1,56 @@
+5.45.73.63:9050::Germany::North Rhine-Westphalia::Düsseldorf
+5.61.53.57:9211::Germany::None::None
 8.131.254.15:9999::China::Beijing::Beijing
-8.210.163.246:50006::United States::None::None
-20.52.130.140:16379::United States::None::None
-27.22.85.52:8100::United States::Texas::Richardson
+8.210.163.246:50016::United States::None::None
+20.52.130.140:16379::Germany::None::None
 31.25.243.40:9554::Germany::None::None
-31.128.248.2:1080::Ukraine::Cherkasy Oblast::Heronymivka
-41.220.7.132:8080::Uganda::None::None
 42.193.161.132:1080::United States::California::Los Angeles
-47.104.65.60:9666::India::Tamil Nadu::Chennai
+45.221.76.114:8080::Uganda::None::None
+49.73.83.233:1080::Australia::New South Wales::Sydney
+51.81.31.62:13255::United States::Florida::Hudson
+51.81.31.62:45793::United States::Michigan::Blanchard
 51.81.31.65:52670::United States::Texas::Diana
-51.81.31.169:10686::United States::Mississippi::Bay Springs
+51.81.31.65:61179::United States::Louisiana::Bossier City
+51.81.31.66:34118::United States::Georgia::Reynolds
 52.80.153.1:1080::United States::California::Los Angeles
+61.185.22.155:1080::Hong Kong::None::None
 62.182.158.27:8000::Japan::Tokyo::Tokyo
 62.182.158.28:8000::India::Telangana::Hyderabad
+67.213.212.16:41841::United States::South Carolina::Ridge Spring
 69.163.160.123:17316::United States::California::Brea
-85.175.100.26:2067::Russia::Krasnodarskiy Kray::Krasnodar
-91.198.137.31:3534::Spain::Catalonia::Barcelona
-91.198.137.31:3539::Germany::None::None
+85.143.213.2:9050::Germany::Bavaria::Nuremberg
+91.134.50.251:1337::Germany::None::None
+94.130.73.19:1068::Ukraine::Ternopil Oblast::Ternopil
 94.130.73.19:1080::Russia::Moscow Oblast::Lytkarino
-103.73.74.177:1080::Indonesia::West Java::Karawang
-103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
+95.188.93.135:666::Germany::Bavaria::Nuremberg
 103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
-104.255.170.63:59004::United States::Oregon::Bend
-104.255.170.63:64821::United States::Oregon::Bend
+103.121.41.165:1080::Pakistan::None::None
 104.255.170.64:64501::United States::Oregon::Bend
 104.255.170.64:64821::United States::Oregon::Bend
-104.255.170.91:62220::United States::Oregon::Bend
-114.249.19.178:1080::Luxembourg::Luxembourg::Luxembourg
+104.255.170.69:64501::United States::Oregon::Bend
+107.174.20.110:16101::Switzerland::Zurich::Zurich
+113.119.9.234:10808::United States::None::None
+114.239.153.241:9999::Macao::None::None
 117.247.87.253:1080::India::Madhya Pradesh::Indore
 121.237.225.211:10801::Hong Kong::Sai Kung District::Tseung Kwan O
 124.78.201.125:1080::China::Guangdong::Shenzhen
-129.159.196.161:9050::Germany::None::None
-139.198.183.243:1080::Japan::Tokyo::Tokyo
 159.65.69.186:9200::United States::None::None
-159.253.45.30:8000::Turkey::None::None
 162.144.64.112:17329::United States::None::None
-162.144.64.112:23779::United States::None::None
+162.144.64.112:23393::United States::None::None
 162.144.64.112:24030::United States::None::None
 162.144.64.112:26411::United States::None::None
+162.144.64.112:35851::United States::None::None
+162.144.64.112:38067::United States::None::None
 162.144.64.112:56857::United States::None::None
-173.236.186.64:20888::United States::None::None
 173.236.186.215:20888::United States::None::None
-173.236.187.82:20888::United States::None::None
+173.236.187.137:20888::United States::None::None
 173.236.187.144:20888::United States::None::None
+173.236.189.144:20888::United States::None::None
 180.164.54.83:7890::Hong Kong::None::None
-181.3.32.153:1080::Argentina::Tucuman::San Miguel de Tucumán
 181.102.75.19:1080::France::None::None
 182.18.95.196:1080::China::Beijing::Changping
 183.240.203.136:1080::Hong Kong::None::None
-185.179.196.19:1082::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1098::Russia::St.-Petersburg::St Petersburg
-192.3.176.138:1080::Netherlands::None::None
-210.16.73.80:1080::Philippines::Calabarzon::Paranaque City
-210.16.73.81:1080::Philippines::Calabarzon::Paranaque City
-213.186.119.38:59311::Ukraine::None::None
-221.216.140.226:1080::United States::Georgia::Atlanta
-223.112.197.34:1080::South Korea::Gangwon-do::Chuncheon
-223.166.75.173:1080::Hong Kong::Central and Western District::Central
+192.249.127.96:9999::United States::None::None
+213.186.119.52:59311::Ukraine::None::None
+222.186.10.227:1080::United States::California::Los Angeles
