@@ -1,36 +1,32 @@
-5.61.53.57:9050::Ukraine::Dnipropetrovsk Oblast::Kryvyi Rih
-5.61.53.57:9151::Germany::None::None
-8.210.163.246:50048::United States::None::None
-20.52.130.140:16379::Germany::Bavaria::Nuremberg
-31.25.243.40:9104::Netherlands::Drenthe::Meppel
-47.75.113.110:10014::Hong Kong::Central and Western District::Central
+5.45.73.63:9050::United States::None::None
+5.61.53.57:9090::Germany::Bavaria::Nuremberg
+5.61.53.57:9503::Netherlands::None::None
+20.52.130.140:16379::United States::None::None
+31.25.243.40:9104::Russia::None::None
+41.220.7.132:8080::Uganda::None::None
 47.92.158.11:7890::Russia::None::None
+47.102.116.218:10808::United States::New Jersey::Piscataway
 51.81.31.62:13255::United States::Florida::Hudson
-51.81.31.66:34118::United States::Georgia::Reynolds
-67.213.212.16:41841::United States::South Carolina::Ridge Spring
-79.209.74.217:9050::Netherlands::None::None
-83.234.161.187:9999::United States::Wyoming::Sheridan
-85.175.100.26:2067::Russia::Krasnodarskiy Kray::Krasnodar
-91.198.137.31:3545::Germany::None::None
-94.130.73.19:1081::Russia::Perm Krai::Perm
-103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
+79.209.74.217:9050::Sweden::None::None
+104.255.170.63:56285::United States::Oregon::Bend
 104.255.170.65:51676::United States::Oregon::Bend
-113.17.24.130:1080::Hong Kong::None::Tai Peng
+104.255.170.68:62220::United States::Oregon::Bend
+104.255.170.69:64501::United States::Oregon::Bend
 113.119.9.234:10808::United States::None::None
 115.231.196.138:1080::Hong Kong::None::None
-121.237.225.211:10801::Hong Kong::Sai Kung District::Tseung Kwan O
-156.241.173.25:8081::United States::California::Los Angeles
-161.202.101.222:1080::United States::None::None
+116.232.49.191:1080::United States::New York::Staten Island
+134.209.191.118:8527::Netherlands::Flevoland::Dronten
+138.201.172.111:9988::Netherlands::None::None
+148.251.73.152:9050::Sweden::None::None
+154.39.238.194:7890::United States::None::None
 162.144.64.112:10555::United States::None::None
-162.144.64.112:23393::United States::None::None
+162.144.64.112:14440::United States::None::None
+162.144.64.112:17329::United States::None::None
 162.144.64.112:24030::United States::None::None
-162.144.64.112:35851::United States::None::None
-172.104.90.60:10031::Denmark::Capital Region::Copenhagen
+162.144.64.112:56857::United States::None::None
 173.236.186.215:20888::United States::None::None
+173.236.187.82:20888::United States::None::None
 173.236.187.137:20888::United States::None::None
-173.236.189.144:20888::United States::None::None
-181.3.39.45:1080::Argentina::Entre Rios::Urdinarrain
-185.179.196.19:1087::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1088::Russia::St.-Petersburg::St Petersburg
-210.16.73.81:1080::Philippines::Calabarzon::Paranaque City
-222.186.10.227:1080::United States::California::Los Angeles
+173.236.187.144:20888::United States::None::None
+185.179.196.19:1081::Russia::St.-Petersburg::St Petersburg
+211.136.100.154:7302::China::Shanghai::Huangpu
