@@ -1,53 +1,48 @@
-5.45.73.63:9050::Luxembourg::Luxembourg::Luxembourg
-5.61.53.57:9052::Luxembourg::Luxembourg::Luxembourg
-5.61.53.57:9151::Canada::Quebec::Beauharnois
-5.61.53.57:9595::Germany::Bavaria::Nuremberg
-5.160.233.83:9191::Moldova::Chișinău Municipality::Chisinau
-8.210.163.246:8852::Germany::None::None
-31.25.243.40:9503::Germany::None::None
-47.75.113.110:10005::Hong Kong::Central and Western District::Central
-47.75.113.110:10010::Hong Kong::Central and Western District::Central
-47.75.113.110:10018::Hong Kong::Central and Western District::Central
+5.61.53.57:9090::United States::None::None
+5.61.53.57:9151::Germany::Bavaria::Nuremberg
+5.61.53.57:9341::Germany::None::None
+5.160.233.83:9191::Netherlands::Flevoland::Dronten
+31.25.243.40:9420::Kazakhstan::Karaganda::Karaganda
+31.25.243.40:9442::Kazakhstan::Karaganda::Karaganda
+31.25.243.40:9542::Germany::None::None
+31.25.243.40:9546::Germany::None::None
+47.75.113.110:10014::Hong Kong::Central and Western District::Central
 47.100.138.228:8023::China::Guangdong::Baiyun
-47.102.116.218:10808::United States::New Jersey::Piscataway
 51.81.31.62:45793::United States::Michigan::Blanchard
 51.81.31.65:61179::United States::Louisiana::Bossier City
-61.185.22.155:1080::Hong Kong::None::None
+59.12.222.76:9050::Germany::Bavaria::Nuremberg
+62.182.158.28:8000::India::Telangana::Hyderabad
+65.108.48.131:10046::Canada::Quebec::Montreal
 67.213.212.16:41841::United States::South Carolina::Ridge Spring
-79.209.74.217:9050::Norway::Vestfold og Telemark::Sandefjord
-85.175.100.26:2067::Russia::Krasnodarskiy Kray::Krasnodar
-103.73.74.179:1080::Indonesia::West Java::Karawang
-104.255.170.63:64501::United States::Oregon::Bend
-104.255.170.64:53623::United States::Oregon::Bend
-104.255.170.89:51676::United States::Oregon::Bend
+67.213.212.16:49590::United States::South Carolina::Okatie
+69.163.160.123:17316::United States::California::Brea
+79.209.74.217:9050::Austria::None::None
+95.213.154.54:31337::Germany::Bavaria::Munich
+103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
+103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
+103.121.41.165:1080::Pakistan::None::None
+103.249.100.40:9050::Singapore::None::Singapore
+104.238.66.161:31337::United States::None::None
+104.255.170.63:59004::United States::Oregon::Bend
+104.255.170.68:51676::United States::Oregon::Bend
 113.58.209.252:1080::Singapore::None::None
 113.119.9.234:10808::United States::None::None
-116.202.107.151:9988::United States::None::None
-119.29.169.239:10009::United Kingdom::None::None
-121.237.225.211:10801::Hong Kong::Sai Kung District::Tseung Kwan O
-146.59.178.51:9300::France::None::None
+125.33.90.242:1080::United States::California::San Jose
 148.251.73.152:9050::United States::None::None
-154.39.238.194:7890::United States::None::None
-156.241.146.61:8081::United States::California::Los Angeles
-162.144.64.112:23779::United States::None::None
-162.144.64.112:24030::United States::None::None
-162.144.64.112:35851::United States::None::None
-162.144.64.112:56857::United States::None::None
-172.104.90.60:10031::United States::None::None
+159.65.69.186:9200::United States::None::None
+161.202.101.222:1080::United States::None::None
 173.236.186.64:20888::United States::None::None
 173.236.186.215:20888::United States::None::None
 173.236.187.82:20888::United States::None::None
 173.236.187.137:20888::United States::None::None
 173.236.187.144:20888::United States::None::None
 173.236.189.144:20888::United States::None::None
-178.141.253.11:9999::Ukraine::None::None
 181.101.9.34:1080::Argentina::Buenos Aires::Lanus
 185.153.198.177:29363::United States::Tennessee::Memphis
 185.179.196.19:1081::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1082::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1084::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1100::Russia::St.-Petersburg::St Petersburg
-192.3.176.138:1080::Netherlands::None::None
-210.16.73.83:1080::Philippines::Calabarzon::Paranaque City
-211.136.100.154:7302::China::Shanghai::Huangpu
-223.166.75.173:1080::Hong Kong::Central and Western District::Central
+185.179.196.19:1089::Russia::St.-Petersburg::St Petersburg
+199.188.93.183:9000::United States::Tennessee::None
+210.16.73.80:1080::Philippines::Calabarzon::Paranaque City
+210.16.73.81:1080::Philippines::Calabarzon::Paranaque City
+213.186.119.60:59311::Ukraine::None::None
+221.216.140.226:1080::United States::Georgia::Atlanta
