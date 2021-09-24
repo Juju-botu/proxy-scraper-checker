@@ -1,45 +1,62 @@
-5.160.233.83:9191::United States::None::None
-8.210.163.246:50019::Sweden::None::None
-20.52.130.140:16379::United States::None::None
-27.22.85.52:8100::United States::Texas::Richardson
-45.221.76.114:8080::Uganda::None::None
-47.107.170.171:9999::China::Beijing::Beijing
-51.79.130.148:9050::United States::None::None
-51.79.130.166:9050::United States::None::None
-51.79.130.186:9050::United States::None::None
-51.79.130.240:9050::United States::None::None
+5.61.53.57:9053::Sweden::Skåne County::Tjoernarp
+8.210.163.246:50033::United States::None::None
+20.52.130.140:16379::Switzerland::Zurich::Zurich
+31.25.243.40:9229::Germany::None::None
+35.223.101.235:9050::Romania::Bucuresti::Bucharest
 51.81.31.62:13255::United States::Florida::Hudson
-54.164.207.56:9050::Hungary::Budapest::Budapest
-62.182.158.27:8000::India::National Capital Territory of Delhi::New Delhi
-91.198.137.31:3500::Germany::None::None
-91.198.137.31:3516::United States::None::None
-91.198.137.31:3560::Romania::None::None
-103.73.74.177:1080::Indonesia::West Java::Karawang
-103.73.74.182:1080::Indonesia::West Java::Karawang
-103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
+62.182.158.28:8000::India::Telangana::Hyderabad
+69.163.160.123:17316::United States::California::Brea
+88.99.36.198:9988::Netherlands::None::None
+91.198.137.31:3550::Netherlands::None::None
+91.198.137.31:3588::Netherlands::None::None
+91.198.137.31:3590::Austria::None::None
+95.217.27.5:2223::Latvia::None::None
+101.6.55.90:7890::Hong Kong::Kowloon City::Kowloon
 103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
-103.121.41.165:1080::Pakistan::None::None
-104.255.170.63:59004::United States::Oregon::Bend
+104.255.170.63:50885::United States::Oregon::Bend
+104.255.170.63:56285::United States::Oregon::Bend
+104.255.170.63:64821::United States::Oregon::Bend
+104.255.170.64:64821::United States::Oregon::Bend
+104.255.170.65:50885::United States::Oregon::Bend
+104.255.170.65:56285::United States::Oregon::Bend
+104.255.170.67:51676::United States::Oregon::Bend
 104.255.170.67:64821::United States::Oregon::Bend
+104.255.170.68:51676::United States::Oregon::Bend
+104.255.170.68:53623::United States::Oregon::Bend
+104.255.170.68:62220::United States::Oregon::Bend
+104.255.170.70:51676::United States::Oregon::Bend
+104.255.170.89:51676::United States::Oregon::Bend
+104.255.170.90:51676::United States::Oregon::Bend
+104.255.170.90:62220::United States::Oregon::Bend
 113.119.9.234:10808::United States::None::None
-134.209.191.118:8526::Canada::None::None
-138.68.6.227:9071::United States::None::None
-148.251.73.152:9050::Netherlands::Flevoland::Dronten
-156.241.163.167:8081::United States::California::Los Angeles
-159.69.204.30:10517::Netherlands::None::None
-162.144.64.112:17329::United States::None::None
-162.144.64.112:35851::United States::None::None
+114.249.19.178:1080::United Kingdom::England::Manchester
+119.29.169.239:10009::United Kingdom::None::None
+121.237.225.211:10801::Hong Kong::Sai Kung District::Tseung Kwan O
+125.33.90.242:1080::United States::California::San Jose
+128.199.213.193:9050::United States::Nevada::Las Vegas
+139.162.76.176:19151::United States::None::None
+148.251.73.152:9050::Seychelles::None::None
+159.69.204.30:10363::United States::None::None
+162.144.64.112:23779::United States::None::None
+162.144.64.112:26411::United States::None::None
 162.144.64.112:38067::United States::None::None
-163.172.7.233:9050::United States::Virginia::Herndon
-172.104.56.209:9050::Switzerland::None::None
+162.144.64.112:56857::United States::None::None
+172.104.67.157:9050::Seychelles::None::None
 173.236.186.215:20888::United States::None::None
 173.236.187.82:20888::United States::None::None
 173.236.187.137:20888::United States::None::None
-181.102.73.120:1080::Argentina::None::None
+173.255.199.69:19151::United States::Florida::Miami
+176.114.203.186:9050::Romania::Bucuresti::Bucharest
+178.150.113.78:8080::Ukraine::None::None
+185.159.131.180:9050::Netherlands::North Holland::Haarlem
+185.179.196.19:1081::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1083::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1084::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1086::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1089::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1097::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1100::Russia::St.-Petersburg::St Petersburg
+198.37.103.73:62220::United States::Oregon::Bend
+213.186.119.38:59311::Ukraine::None::None
+213.186.119.52:59311::Ukraine::None::None
+213.186.119.60:59311::Ukraine::None::None
 218.79.109.143:1080::Japan::None::None
 221.216.140.226:1080::United States::Georgia::Atlanta
 222.186.10.227:1080::United States::California::Los Angeles
