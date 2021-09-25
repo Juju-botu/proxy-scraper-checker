@@ -1,83 +1,82 @@
-5.61.53.57:9053::United States::None::None
+5.61.53.57:9053::Hungary::Budapest::Budapest
+5.61.53.57:9090::United States::None::None
+5.61.53.57:9300::United States::Nevada::Las Vegas
 8.129.17.137:9999::India::Maharashtra::Mumbai
-8.129.25.203:9999::Hong Kong::Central and Western District::Central
-8.210.163.246:50016::Netherlands::None::None
-8.210.163.246:50023::United States::None::None
-31.25.243.40:9118::Germany::None::None
+8.131.254.15:9999::China::Beijing::Beijing
+8.210.163.246:50009::United States::None::None
+8.210.163.246:50037::United States::None::None
+8.210.163.246:50040::France::Nouvelle-Aquitaine::Andernos-les-Bains
+27.22.85.52:8100::United States::Texas::Richardson
+31.25.243.40:9104::Germany::None::None
+31.25.243.40:9480::Germany::None::None
 31.25.243.40:9498::Netherlands::Drenthe::Meppel
+31.25.243.40:9514::Germany::None::None
 31.25.243.40:9541::Germany::None::None
 31.25.243.40:9573::Germany::None::None
 31.128.248.2:1080::Ukraine::Cherkasy Oblast::Heronymivka
-35.223.101.235:9050::Luxembourg::Luxembourg::Luxembourg
 36.27.223.70:31493::China::Shandong::Yantai
-39.103.216.155:7890::United States::Colorado::Denver
-43.132.190.227:28818::South Korea::None::None
 43.132.190.227:28821::South Korea::None::None
-43.132.190.227:28826::South Korea::None::None
-43.132.190.227:28829::South Korea::None::None
 43.132.190.227:28833::South Korea::None::None
 43.132.190.227:28842::South Korea::None::None
-43.132.190.227:28845::South Korea::None::None
-47.75.113.110:10011::Hong Kong::Central and Western District::Central
+47.75.113.110:10004::Hong Kong::Central and Western District::Central
+47.75.113.110:10005::Hong Kong::Central and Western District::Central
 47.75.113.110:10015::Hong Kong::Central and Western District::Central
-51.83.190.248:19050::United States::Vermont::Arlington
-59.66.132.22:7890::Singapore::None::Singapore
-61.185.22.155:1080::Hong Kong::None::None
-66.49.207.24:9050::Romania::Bucuresti::Bucharest
+47.104.65.60:9666::India::Tamil Nadu::Chennai
+54.164.207.56:9050::Netherlands::Flevoland::Dronten
 67.213.212.16:41841::United States::South Carolina::Ridge Spring
 69.163.160.123:17316::United States::California::Brea
-69.163.162.172:17316::United States::California::Brea
-79.124.62.26:443::Seychelles::None::None
-91.198.137.31:3567::Romania::Iasi::Sipote
+85.175.100.26:1059::Russia::Volgograd Oblast::None
+85.175.100.26:2067::Russia::Rostov Oblast::None
+88.99.36.198:9988::Netherlands::None::None
+91.198.137.31:3522::Sweden::Stockholm County::Järfälla Municipality
+91.198.137.31:3526::Germany::None::None
+91.198.137.31:3538::Germany::None::None
+91.198.137.31:3548::Germany::None::None
+91.198.137.31:3558::Luxembourg::Luxembourg::Luxembourg
+91.198.137.31:3562::United Kingdom::England::London
 91.221.70.248:9100::United States::None::None
-95.213.154.54:31337::Spain::None::None
-103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
-103.233.82.158:1080::Thailand::None::None
-103.249.100.40:9050::Singapore::None::Singapore
-104.248.63.18:30588::Ukraine::None::None
+103.215.177.183:9050::Germany::None::None
+104.238.66.161:31337::United States::None::None
 104.255.170.63:51676::United States::Oregon::Bend
-104.255.170.63:56285::United States::Oregon::Bend
 104.255.170.63:59004::United States::Oregon::Bend
+104.255.170.63:64501::United States::Oregon::Bend
 104.255.170.64:62220::United States::Oregon::Bend
 104.255.170.65:56285::United States::Oregon::Bend
-104.255.170.67:51676::United States::Oregon::Bend
-104.255.170.68:51676::United States::Oregon::Bend
-104.255.170.68:62220::United States::Oregon::Bend
-104.255.170.70:51676::United States::Oregon::Bend
-104.255.170.70:53623::United States::Oregon::Bend
-104.255.170.89:64501::United States::Oregon::Bend
+104.255.170.65:64501::United States::Oregon::Bend
+104.255.170.66:53623::United States::Oregon::Bend
+104.255.170.70:62220::United States::Oregon::Bend
 104.255.170.91:51676::United States::Oregon::Bend
 104.255.170.91:53623::United States::Oregon::Bend
 104.255.170.91:62220::United States::Oregon::Bend
-114.249.19.178:1080::United Kingdom::England::Manchester
-117.69.189.219:10003::China::Anhui::Huangshan City
-139.162.76.176:19151::United States::None::None
-159.65.69.186:9200::Netherlands::None::None
-162.144.64.112:10555::United States::None::None
+119.3.239.109:7890::Taiwan::Taichung City::Taichung
+128.199.213.193:9050::United States::None::None
+159.65.69.186:9200::Luxembourg::Luxembourg::Luxembourg
 162.144.64.112:14440::United States::None::None
 162.144.64.112:15565::United States::None::None
+162.144.64.112:17329::United States::None::None
 162.144.64.112:23393::United States::None::None
 162.144.64.112:23779::United States::None::None
 162.144.64.112:24030::United States::None::None
 162.144.64.112:26411::United States::None::None
 162.144.64.112:35851::United States::None::None
-172.104.67.157:9050::Germany::None::None
-172.104.90.60:10031::United States::Wyoming::Sheridan
+162.144.64.112:56857::United States::None::None
+172.104.90.60:10031::Luxembourg::Luxembourg::Luxembourg
 173.236.186.64:20888::United States::None::None
 173.236.186.215:20888::United States::None::None
 173.236.187.82:20888::United States::None::None
 173.236.187.144:20888::United States::None::None
 173.236.189.144:20888::United States::None::None
-178.128.90.211:9050::Sweden::Skåne County::Tjoernarp
 178.150.113.78:8080::Ukraine::None::None
+181.3.5.128:1080::Brazil::Sao Paulo::Campinas
 181.6.187.21:1080::Argentina::Buenos Aires::General Pacheco
-185.179.196.19:1090::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1100::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1082::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1083::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1084::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1086::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1101::Russia::St.-Petersburg::St Petersburg
 192.249.127.96:9999::Germany::Bavaria::Nuremberg
-193.29.187.226:9050::United States::None::None
-198.37.103.74:62220::United States::Oregon::Bend
-210.16.73.85:1080::Philippines::Calabarzon::Paranaque City
-213.186.119.52:59311::Ukraine::None::None
-221.216.140.226:1080::United States::Georgia::Atlanta
+198.37.103.71:62220::United States::Oregon::Bend
+209.97.175.37:9050::United Kingdom::None::None
+211.136.100.154:7302::China::Shanghai::Huangpu
+218.79.109.143:1080::Japan::None::None
 222.186.10.227:1080::United States::California::Los Angeles
