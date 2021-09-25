@@ -1,72 +1,57 @@
-5.45.73.63:9050::Germany::None::None
-5.61.53.57:9053::United Kingdom::None::None
-5.61.53.57:9100::Netherlands::None::None
-5.61.53.57:9503::Germany::Bavaria::Nuremberg
-20.52.130.140:16379::United States::None::None
-31.25.243.40:9288::Germany::None::None
-31.25.243.40:9514::Germany::None::None
+8.131.254.15:9999::China::Beijing::Beijing
+27.22.85.52:8100::United States::Texas::Richardson
+27.22.85.58:8100::United States::Texas::Richardson
+31.25.243.40:9187::Germany::None::None
 36.27.223.70:31493::China::Shandong::Yantai
 43.132.190.227:28818::South Korea::None::None
-43.132.190.227:28824::South Korea::None::None
-43.132.190.227:28826::South Korea::None::None
 43.132.190.227:28829::South Korea::None::None
-43.132.190.227:28845::South Korea::None::None
-45.129.182.119:8118::Netherlands::None::None
+43.132.190.227:28839::South Korea::None::None
+47.75.113.110:10005::Hong Kong::Central and Western District::Central
+47.75.113.110:10007::Hong Kong::Central and Western District::Central
+47.75.113.110:10008::Hong Kong::Central and Western District::Central
+47.75.113.110:10009::Hong Kong::Central and Western District::Central
+47.75.113.110:10015::Hong Kong::Central and Western District::Central
+47.75.113.110:10017::Hong Kong::Central and Western District::Central
+47.75.113.110:10018::Hong Kong::Central and Western District::Central
+47.75.113.110:10019::Hong Kong::Central and Western District::Central
+47.75.113.110:10020::Hong Kong::Central and Western District::Central
 49.86.65.66:1082::South Korea::Gangwon-do::Chuncheon
-51.79.69.153:1337::Luxembourg::Luxembourg::Luxembourg
-52.23.34.138:9050::Germany::None::None
-78.46.37.98:9050::Denmark::Capital Region::Copenhagen
-91.198.137.31:3517::Seychelles::None::None
-91.198.137.31:3588::Germany::Bavaria::Munich
+62.182.158.27:8000::India::Telangana::Hyderabad
+62.182.158.28:8000::India::National Capital Territory of Delhi::New Delhi
+65.108.48.131:10010::Canada::Quebec::Montreal
+91.198.137.31:3513::Germany::None::None
 103.48.233.93:1080::Taiwan::New Taipei::New Taipei
-103.121.41.165:1080::Pakistan::None::None
-104.248.63.18:30588::Denmark::Capital Region::Copenhagen
-104.255.170.64:53623::United States::Oregon::Bend
+104.248.63.18:30588::Germany::Bavaria::Nuremberg
 104.255.170.89:53623::United States::Oregon::Bend
-104.255.170.90:53623::United States::Oregon::Bend
-104.255.170.91:62220::United States::Oregon::Bend
-113.116.128.220:31337::China::Fujian::Jian'ou
+110.184.225.28:1080::United States::California::Fremont
+111.196.76.161:7890::Estonia::Harjumaa::Tallinn
+113.116.128.220:31337::China::Guangdong::Shenzhen
 113.119.86.94:1080::Hong Kong::Sai Kung District::Tseung Kwan O
-113.120.62.181:10005::China::Shandong::Jinan
-113.120.62.181:10011::China::Shandong::Jinan
-113.128.10.23:10003::China::Shandong::Jinan
 113.128.10.23:10011::China::Shandong::Jinan
-117.69.189.219:10003::China::Anhui::Huangshan City
-122.4.43.129:10003::China::Shandong::Jinan
+115.219.46.131:9999::United States::California::Los Angeles
+117.69.189.215:10005::China::Shanghai::Shanghai
 122.4.47.137:10005::China::Shandong::Jinan
 122.4.47.137:10010::China::Shandong::Jinan
 122.4.52.35:10006::China::Shandong::Hongjialou
 123.116.138.29:1080::Hong Kong::Yuen Long District::Yuen Long
-123.139.28.210:1080::United States::None::None
-124.78.201.125:1080::Hong Kong::Central and Western District::Central
-139.198.183.243:1080::Japan::Tokyo::Tokyo
-140.255.150.115:1088::Argentina::Buenos Aires F.D.::Buenos Aires
-143.198.156.95:9050::United States::None::None
+128.65.194.136:9050::Germany::None::None
+138.68.95.59:8080::United States::New York::Staten Island
 151.80.171.162:64720::France::None::None
-156.241.171.7:8081::United States::California::Los Angeles
-161.202.101.222:1080::United States::None::None
-162.144.64.112:15565::United States::None::None
-162.144.64.112:17329::United States::None::None
-162.144.64.112:35851::United States::None::None
+159.65.69.186:9200::United States::New York::Staten Island
+159.69.204.30:10867::Germany::Bavaria::Nuremberg
+162.144.64.112:14440::United States::None::None
+162.144.64.112:24030::United States::None::None
+162.144.64.112:38067::United States::None::None
 162.144.64.112:56857::United States::None::None
-165.232.72.180:9150::Hungary::Budapest::Budapest
-172.104.90.60:10031::Switzerland::None::None
-176.114.203.186:9050::United States::None::None
-178.141.253.11:9999::Russia::None::None
-180.120.76.113:1080::Hong Kong::Sham Shui Po::Sham Shui Po
+165.232.72.180:9150::Germany::None::None
 181.7.221.60:1080::Argentina::Corrientes::Bella Vista
 181.101.119.153:1080::Argentina::Tucuman::San Miguel de Tucumán
 181.102.54.111:1080::Brazil::None::None
-183.15.120.193:1088::Singapore::None::None
-185.179.196.19:1082::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1086::Russia::St.-Petersburg::St Petersburg
-193.162.105.1:1080::Turkey::Istanbul::Istanbul
-209.97.175.37:9050::Netherlands::None::None
-210.16.73.80:1080::Philippines::Calabarzon::Paranaque City
-210.16.73.81:1080::Philippines::Calabarzon::Paranaque City
-210.16.73.85:1080::Philippines::Calabarzon::Paranaque City
-217.61.129.95:64811::Spain::Andalusia::Seville
-217.61.130.10:64811::Spain::Andalusia::Seville
-217.61.130.14:64811::Spain::Andalusia::Seville
-220.173.31.204:1080::Hong Kong::Central and Western District::Central
-223.166.75.173:1080::Hong Kong::Central and Western District::Central
+185.179.196.19:1084::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1089::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1090::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1101::Russia::St.-Petersburg::St Petersburg
+198.37.103.71:62220::United States::Oregon::Bend
+209.97.160.204:3106::Singapore::None::Singapore
+211.136.100.154:7302::China::Shanghai::Huangpu
+217.61.129.79:64811::Spain::Andalusia::Seville
