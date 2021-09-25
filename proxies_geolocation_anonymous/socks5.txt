@@ -1,27 +1,22 @@
-5.45.73.63:9050::Netherlands::None::None
-5.61.53.57:9151::Netherlands::Flevoland::Dronten
-5.61.53.57:9503::Seychelles::None::None
-27.22.85.52:8100::United States::Texas::Richardson
-45.125.239.87:20115::Australia::New South Wales::Sydney
-47.75.113.110:10014::Hong Kong::Central and Western District::Central
-62.182.158.28:8000::India::Telangana::Hyderabad
+31.25.243.40:9288::Netherlands::Drenthe::Meppel
 67.213.212.16:41841::United States::South Carolina::Ridge Spring
-104.255.170.67:53623::United States::Oregon::Bend
-104.255.170.89:53623::United States::Oregon::Bend
-114.104.135.25:10011::China::Shanghai::Shanghai
-116.202.107.151:9988::Netherlands::None::None
-119.28.214.197:9150::United States::Nevada::Las Vegas
-121.237.225.211:10801::Hong Kong::Sai Kung District::Tseung Kwan O
+85.175.100.26:2067::Russia::Rostov Oblast::None
+94.130.73.19:1053::Russia::Nizhny Novgorod Oblast::Vyksa
+103.73.74.179:1080::Indonesia::West Java::Karawang
+104.255.170.64:53623::United States::Oregon::Bend
+104.255.170.66:53623::United States::Oregon::Bend
 161.202.101.222:1080::United States::None::None
-162.144.64.112:15565::United States::None::None
+162.144.64.112:10555::United States::None::None
+162.144.64.112:14440::United States::None::None
 162.144.64.112:17329::United States::None::None
+162.144.64.112:23393::United States::None::None
 162.144.64.112:23779::United States::None::None
-162.144.64.112:26411::United States::None::None
 162.144.64.112:38067::United States::None::None
-172.104.90.60:10031::United States::None::None
-178.141.253.11:9999::Russia::None::None
+178.128.84.253:9050::Germany::Bavaria::Nuremberg
 181.101.119.153:1080::Argentina::Tucuman::San Miguel de Tucumán
-185.179.196.19:1082::Russia::St.-Petersburg::St Petersburg
+182.18.95.196:1080::China::Beijing::Changping
 185.179.196.19:1090::Russia::St.-Petersburg::St Petersburg
-211.136.100.154:7302::China::Shanghai::Huangpu
-222.186.10.227:1080::United States::California::Los Angeles
+193.162.105.1:1080::Turkey::Istanbul::Istanbul
+198.37.103.73:62220::United States::Oregon::Bend
+210.16.73.81:1080::Philippines::Calabarzon::Paranaque City
+223.166.75.173:1080::Hong Kong::Central and Western District::Central
