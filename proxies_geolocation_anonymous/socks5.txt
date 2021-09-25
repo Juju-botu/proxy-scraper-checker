@@ -1,47 +1,49 @@
-8.210.163.246:50009::United States::None::None
-20.52.130.140:16379::Germany::Bavaria::Nuremberg
-31.25.243.40:9104::Germany::None::None
-31.25.243.40:9164::Germany::None::None
-31.25.243.40:9328::Germany::None::None
-31.25.243.40:9498::Kazakhstan::Karaganda::Karaganda
-31.25.243.40:9514::Germany::None::None
-31.128.248.2:1080::Ukraine::Cherkasy Oblast::Heronymivka
-45.221.76.114:8080::Uganda::None::None
-47.75.113.110:10013::Hong Kong::Central and Western District::Central
-47.75.113.110:10020::Hong Kong::Central and Western District::Central
-61.185.22.155:1080::Hong Kong::None::None
+5.61.53.57:9053::United States::None::None
+20.52.130.140:16379::Netherlands::Flevoland::Dronten
+31.25.243.40:9146::Germany::None::None
+31.25.243.40:9522::Netherlands::Drenthe::Meppel
+47.75.113.110:10010::Hong Kong::Central and Western District::Central
+47.251.31.183:24000::United States::California::San Jose
+51.83.190.248:19050::Luxembourg::Luxembourg::Luxembourg
 62.182.158.27:8000::India::National Capital Territory of Delhi::New Delhi
-66.49.207.24:9050::Sweden::Stockholm County::Stockholm
-91.198.137.31:3528::United States::California::Santa Clara
-91.198.137.31:3581::United States::None::None
-103.73.74.179:1080::Indonesia::West Java::Karawang
-104.255.170.64:64821::United States::Oregon::Bend
-104.255.170.67:64821::United States::Oregon::Bend
-119.28.149.37:9151::Austria::None::None
-119.28.214.197:9150::Netherlands::Flevoland::Dronten
-119.29.169.239:10006::Russia::Moscow::Moscow
+69.163.160.123:17316::United States::California::Brea
+83.234.161.187:9999::United States::None::None
+91.198.137.31:3546::Netherlands::None::None
+91.198.137.31:3551::Netherlands::Flevoland::Dronten
+91.198.137.31:3556::United States::None::None
+91.198.137.31:3596::Seychelles::None::None
+103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
+104.238.66.161:31337::United States::None::None
+104.255.170.67:53623::United States::Oregon::Bend
+114.249.19.178:1080::Taiwan::New Taipei::New Taipei
+119.3.239.109:7890::Taiwan::Taichung City::Taichung
 121.237.225.211:10801::Hong Kong::Sai Kung District::Tseung Kwan O
-134.209.191.118:8528::Austria::None::None
-139.198.183.243:1080::Japan::Tokyo::Tokyo
-156.241.170.11:8081::United States::California::Los Angeles
-159.65.69.186:9200::Poland::Lesser Poland::Niepolomice
-161.35.138.167:9050::Netherlands::Flevoland::Dronten
+128.199.213.193:9050::Germany::None::None
+134.209.191.118:8525::Sweden::None::None
+159.253.45.30:8000::Turkey::None::None
+161.35.138.167:9050::Germany::None::None
+161.97.69.215:9050::Seychelles::None::None
 162.144.64.112:10555::United States::None::None
-162.144.64.112:14440::United States::None::None
 162.144.64.112:15565::United States::None::None
 162.144.64.112:23779::United States::None::None
-162.144.64.112:24030::United States::None::None
 162.144.64.112:35851::United States::None::None
-163.172.45.77:9051::France::None::None
-166.62.52.52:31337::United States::None::None
-172.104.90.60:10031::Sweden::Stockholm County::Järfälla Municipality
+162.144.64.112:38067::United States::None::None
+167.71.172.18:9050::United States::None::None
+167.71.236.109:9051::Canada::Quebec::Montreal
+172.104.90.60:10031::Germany::None::None
 173.236.187.82:20888::United States::None::None
 181.6.187.21:1080::Argentina::Buenos Aires::General Pacheco
 182.18.95.196:1080::China::Beijing::Changping
+182.150.46.26:7890::China::Sichuan::Chengdu
 185.179.196.19:1081::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1082::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1083::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1089::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1090::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1097::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1100::Russia::St.-Petersburg::St Petersburg
-222.186.10.227:1080::United States::California::Los Angeles
+185.179.196.19:1098::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1101::Russia::St.-Petersburg::St Petersburg
+192.3.176.138:1080::Netherlands::None::None
+193.162.105.1:1080::Turkey::Istanbul::Istanbul
+210.16.73.84:1080::Philippines::Calabarzon::Paranaque City
 223.166.75.173:1080::Hong Kong::Central and Western District::Central
