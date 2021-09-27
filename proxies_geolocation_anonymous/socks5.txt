@@ -1,64 +1,36 @@
-5.34.180.128:9050::Netherlands::Flevoland::Dronten
-5.61.53.57:9050::Netherlands::North Holland::Amsterdam
-5.61.53.57:9341::Germany::None::None
-8.131.254.15:9999::China::Beijing::Beijing
-20.52.130.140:16379::United States::None::None
-27.22.85.58:8100::United States::Texas::Richardson
+5.61.53.57:9100::Costa Rica::Provincia de San Jose::San José
+20.52.130.140:16379::Germany::None::None
 36.27.223.80:41788::China::Liaoning::Dalian
-43.132.190.227:28815::South Korea::None::None
-43.132.190.227:28818::South Korea::None::None
-43.132.190.227:28833::South Korea::None::None
-43.132.190.227:28839::South Korea::None::None
-43.132.190.227:28845::South Korea::None::None
-47.75.113.110:10007::Hong Kong::Central and Western District::Central
-47.75.113.110:10008::Hong Kong::Central and Western District::Central
-47.75.113.110:10015::Hong Kong::Central and Western District::Central
-47.75.113.110:10018::Hong Kong::Central and Western District::Central
 47.115.149.82:443::Hong Kong::Central and Western District::Central
 51.81.31.62:45793::United States::Michigan::Blanchard
+62.182.158.27:8000::India::Telangana::Hyderabad
 62.182.158.28:8000::India::National Capital Territory of Delhi::New Delhi
-69.163.160.123:17316::United States::California::Brea
-91.198.137.31:3519::United States::None::None
+91.198.137.31:3531::Germany::Bavaria::Nuremberg
+91.198.137.31:3561::Switzerland::None::None
+91.198.137.31:3583::United States::None::None
+94.130.73.19:1089::Russia::Vladimirskaya Oblast'::Kovrov
+95.188.93.135:666::Germany::None::None
 103.73.74.182:1080::Indonesia::West Java::Karawang
-103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
-103.215.176.246:9050::United States::None::None
-104.255.170.65:56285::United States::Oregon::Bend
-104.255.170.66:62220::United States::Oregon::Bend
-113.120.25.66:10019::China::Jiangsu::Xieqiao
+104.255.170.63:50885::United States::Oregon::Bend
+104.255.170.63:59004::United States::Oregon::Bend
+113.120.33.207:10009::China::Shandong::Jinan
 114.249.17.148:1080::Hong Kong::None::None
-117.247.87.253:1080::India::Madhya Pradesh::Indore
-119.28.149.37:9151::Switzerland::Zurich::Zurich
-119.29.169.239:10009::United Kingdom::None::None
-119.123.225.188:7890::Singapore::None::Singapore
-122.4.47.57:10010::China::Shandong::Jinan
+121.5.103.9:7891::United States::Nevada::Las Vegas
 123.120.249.235:1080::Hong Kong::None::None
-132.148.0.59:31337::United States::None::None
-134.209.191.118:8533::Germany::Bavaria::Nuremberg
-139.59.223.213:1080::Singapore::None::Singapore
+146.59.178.51:9300::France::None::None
 151.80.171.162:64720::France::None::None
 159.65.69.186:9200::United States::None::None
-159.253.45.30:8000::Turkey::None::None
-161.35.138.167:9050::Germany::None::None
-161.202.101.222:1080::United States::None::None
+162.144.64.112:10555::United States::None::None
 162.144.64.112:17329::United States::None::None
-162.144.64.112:23393::United States::None::None
-162.144.64.112:23779::United States::None::None
 162.144.64.112:24030::United States::None::None
 162.144.64.112:38067::United States::None::None
-172.104.90.60:10031::United Kingdom::England::Reading
-173.236.186.64:20888::United States::None::None
-178.150.113.78:8080::Ukraine::None::None
+173.236.186.215:20888::United States::None::None
+173.236.187.137:20888::United States::None::None
 180.120.76.113:1080::Hong Kong::Sham Shui Po::Sham Shui Po
 180.121.253.81:1080::Hong Kong::None::None
 185.179.196.19:1080::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1082::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1083::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1086::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1087::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1089::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1095::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1098::Russia::St.-Petersburg::St Petersburg
-188.132.153.3:43791::Turkey::None::None
-210.16.73.81:1080::Philippines::Calabarzon::Paranaque City
-220.162.71.149:1080::Japan::Tokyo::Heiwajima
-221.219.100.71:1080::Japan::None::None
+185.179.196.19:1088::Russia::St.-Petersburg::St Petersburg
+188.68.52.220:9050::United States::None::None
+209.97.160.204:3091::Australia::New South Wales::Sydney
+218.79.109.143:1080::Japan::None::None
