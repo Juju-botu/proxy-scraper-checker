@@ -1,76 +1,68 @@
-8.131.254.15:9999::China::Beijing::Beijing
-8.210.12.242:33638::Hong Kong::Central and Western District::Central
-8.210.67.17:51832::Hong Kong::Central and Western District::Central
-13.228.21.89:1080::Singapore::None::Singapore
-20.52.130.140:16379::Switzerland::None::None
-27.116.51.92:6667::India::Gujarat::Anand
+5.56.134.237:45698::Iran::Tehran::Tehran
+20.52.130.140:16379::Seychelles::None::None
+27.22.85.58:8100::United States::Texas::Richardson
 27.116.51.119:6667::India::Gujarat::Anand
-27.116.51.178:6667::India::Gujarat::Anand
-27.116.51.181:6667::India::Gujarat::Anand
+31.186.241.7:52185::United Kingdom::None::None
 36.89.86.49:56845::Indonesia::Jakarta::Sunter Agung
-36.94.126.50:1080::Indonesia::Jakarta::Jakarta
 37.156.104.178:3327::Iraq::Erbil::Erbil
-39.108.227.141:1080::China::Guangdong::Shenzhen
+39.107.88.218:1080::China::Beijing::Beijing
 41.231.54.69:1089::Tunisia::None::None
-43.224.8.14:6667::India::Gujarat::Surendranagar
-43.224.10.13:6667::India::Gujarat::Khambhat
+43.224.8.12:6667::India::Gujarat::Surendranagar
+43.224.10.23:6667::India::Gujarat::Khambhat
+43.224.10.26:6667::India::Gujarat::Khambhat
 43.224.10.27:6667::India::Gujarat::Khambhat
-43.224.10.42:6667::India::Gujarat::Khambhat
+43.224.10.35:6667::India::Gujarat::Khambhat
 43.224.10.44:6667::India::Gujarat::Khambhat
-47.75.113.110:10007::Hong Kong::Central and Western District::Central
-47.242.62.45:21474::Hong Kong::Central and Western District::Central
-47.242.83.103:55440::Hong Kong::Central and Western District::Central
+46.0.234.11:5678::Russia::Samara Oblast::Samara
+47.115.149.82:443::Hong Kong::Central and Western District::Central
+47.116.130.67:7891::China::Guangdong::Shenzhen
 47.242.235.27:3916::Hong Kong::Central and Western District::Central
-47.243.161.248:34580::Hong Kong::Central and Western District::Central
-47.243.163.82:44415::Hong Kong::Central and Western District::Central
-52.80.153.1:1080::United States::California::Los Angeles
+47.243.9.199:30462::Hong Kong::Central and Western District::Central
 52.175.21.231:1080::Hong Kong::Central and Western District::Central
-62.182.158.28:8000::India::Telangana::Hyderabad
-69.163.160.123:17316::United States::California::Brea
-87.247.185.94:1080::United Arab Emirates::None::None
-97.74.230.87:45668::United States::None::None
+95.131.48.75:14862::Hungary::None::None
+96.75.254.66:1080::United States::Indiana::Kokomo
 101.83.150.143:1080::Hong Kong::None::None
 103.21.163.76:6667::India::Gujarat::Surendranagar
-103.73.74.178:1080::Indonesia::West Java::Karawang
-103.85.232.20:1080::Bangladesh::Dhaka Division::Dhaka
-103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
+103.21.163.81:6667::India::Gujarat::Surendranagar
+103.73.74.182:1080::Indonesia::West Java::Karawang
+103.85.232.146:1080::Bangladesh::Dhaka Division::Dhaka
 103.112.162.170:1080::Indonesia::Jakarta::Jakarta
-103.121.41.165:1080::Pakistan::None::None
 103.231.241.102:1080::Philippines::None::None
-104.255.170.63:50885::United States::Oregon::Bend
-113.120.62.181:10009::China::Shandong::Jinan
+103.241.227.100:6667::India::Gujarat::Surat
+103.250.166.12:6667::India::Gujarat::Gandhidham
+104.255.170.64:53623::United States::Oregon::Bend
+104.255.170.65:53623::United States::Oregon::Bend
+110.184.225.28:1080::United States::California::Fremont
+112.65.117.128:7777::China::None::None
+113.87.29.105:1080::Hong Kong::Central and Western District::Central
 113.120.62.181:10011::China::Shandong::Jinan
+113.128.10.23:10011::China::Shandong::Jinan
 114.249.17.148:1080::Hong Kong::None::None
-117.247.87.253:1080::India::Madhya Pradesh::Indore
-120.196.237.162:1080::China::None::None
-120.196.237.162:1081::China::None::None
+120.79.192.116:1080::China::Guangdong::Shenzhen
 121.204.198.11:38801::China::None::None
-122.4.52.35:10026::China::Shandong::Jinan
-122.4.52.86:10005::China::Shandong::Jinan
 123.18.206.50:1080::Vietnam::Tinh Tuyen Quang::Son Duong
 123.129.219.228:1080::China::Beijing::Beijing
-128.199.202.105:16672::Singapore::None::Singapore
+139.59.61.51:4430::India::Karnataka::Bengaluru
 139.59.61.51:25469::India::Karnataka::Bengaluru
 149.202.161.89:18701::France::None::None
+159.65.69.186:9200::Israel::Tel Aviv::Tel Aviv
+159.65.225.8:7258::United States::New Jersey::North Bergen
 162.144.64.112:14440::United States::None::None
-162.144.64.112:15565::United States::None::None
-162.144.64.112:38067::United States::None::None
+162.144.64.112:24030::United States::None::None
 162.144.64.112:56857::United States::None::None
 165.227.177.113:9714::United States::New Jersey::Clifton
 166.62.38.100:38264::United States::None::None
 166.62.38.100:48280::United States::None::None
 167.71.249.173:40801::United States::New Jersey::Clifton
-171.244.22.20:48938::Vietnam::Ho Chi Minh::Ho Chi Minh City
+172.104.90.60:10031::Germany::None::None
+178.150.113.78:8080::Ukraine::None::None
 180.121.253.81:1080::Hong Kong::None::None
-180.165.96.207:1080::Hong Kong::None::None
-183.234.159.3:1081::China::None::None
+185.179.196.19:1084::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1086::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1087::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1088::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1098::Russia::St.-Petersburg::St Petersburg
-188.132.153.3:14401::Turkey::None::None
-188.132.153.3:43791::Turkey::None::None
-192.241.134.40:8838::United States::New Jersey::North Bergen
-193.112.118.89:38888::China::None::None
-206.189.92.74:38888::Singapore::None::Singapore
-213.183.41.227:1080::Russia::Moscow::Moscow
-217.77.221.93:1080::Ukraine::Mykolayiv Oblast::Mykolayiv
+195.158.197.13:1043::Ukraine::Kyiv City::Kyiv
+209.126.105.23:23354::United States::Missouri::St Louis
+211.136.100.154:7302::China::None::None
+218.64.122.99:7302::China::Jiangxi::Fenyi
+222.74.65.122:7302::China::None::None
