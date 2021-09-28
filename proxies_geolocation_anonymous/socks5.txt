@@ -1,51 +1,54 @@
-5.61.53.57:9595::Switzerland::None::None
-5.105.1.86:16379::Germany::None::None
+5.61.53.57:9053::Seychelles::None::None
+8.131.254.15:9999::China::Beijing::Beijing
 27.19.86.203:1080::United States::California::Los Angeles
-36.27.223.70:64609::China::Shanxi::Linfen
 36.27.223.80:37640::China::Guangdong::Guangzhou
-36.27.223.80:45475::China::Shanghai::Xuhui
-36.27.223.80:51327::China::Shandong::Weifang
-47.75.113.110:10003::Hong Kong::Central and Western District::Central
-47.75.113.110:10004::Hong Kong::Central and Western District::Central
-47.75.113.110:10008::Hong Kong::Central and Western District::Central
-47.75.113.110:10015::Hong Kong::Central and Western District::Central
+43.132.190.227:28815::South Korea::None::None
+43.132.190.227:28827::South Korea::None::None
+43.132.190.227:28832::South Korea::None::None
+43.132.190.227:28833::South Korea::None::None
 47.104.65.60:9666::India::Tamil Nadu::Chennai
-47.115.149.82:443::Hong Kong::Central and Western District::Central
 51.195.238.19:36326::United Kingdom::England::London
-91.198.137.31:3594::Netherlands::North Holland::Haarlem
-103.73.74.184:1080::Indonesia::West Java::Karawang
-103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
-104.255.170.63:59004::United States::Oregon::Bend
+52.80.153.1:1080::United States::California::Los Angeles
+83.234.161.187:9999::United States::None::None
+91.198.137.31:3592::United States::None::None
+104.255.170.63:50885::United States::Oregon::Bend
 104.255.170.65:56285::United States::Oregon::Bend
+104.255.170.66:53623::United States::Oregon::Bend
 104.255.170.67:62686::United States::Oregon::Bend
-104.255.170.69:62686::United States::Oregon::Bend
+104.255.170.68:62220::United States::Oregon::Bend
+104.255.170.68:62686::United States::Oregon::Bend
+104.255.170.91:53623::United States::Oregon::Bend
 104.255.170.91:62686::United States::Oregon::Bend
 106.110.38.147:1080::United States::None::None
 110.81.249.121:23456::United States::California::Los Angeles
 110.184.225.28:1080::United States::California::Fremont
 113.77.85.219:1081::Singapore::None::None
-113.128.10.23:10006::China::Shandong::Hongjialou
+113.87.29.105:1080::Hong Kong::Kowloon City::Kowloon
+113.120.33.207:10009::China::Shandong::Jinan
+113.128.10.23:10011::China::Shandong::Jinan
+122.4.52.86:10009::China::Shandong::Jinan
+129.159.196.161:9050::Germany::None::None
+132.148.0.59:31337::United States::None::None
+134.209.191.118:8533::Moldova::Chișinău Municipality::Chisinau
+138.68.95.59:8080::United States::None::None
+139.59.223.213:1080::Singapore::None::Singapore
+159.65.69.186:9200::Netherlands::Flevoland::Dronten
 161.202.101.222:1080::United States::None::None
-162.144.64.112:14440::United States::None::None
 162.144.64.112:17329::United States::None::None
-162.144.64.112:23393::United States::None::None
 162.144.64.112:23779::United States::None::None
+162.144.64.112:24030::United States::None::None
+162.144.64.112:26411::United States::None::None
 162.144.64.112:35851::United States::None::None
-172.104.90.60:10031::Germany::None::None
+162.144.64.112:38067::United States::None::None
+162.144.64.112:56857::United States::None::None
+172.104.90.60:10031::Seychelles::None::None
 173.236.186.215:20888::United States::None::None
-173.244.200.157:10206::United States::Georgia::Canton
-178.150.113.78:8080::Ukraine::None::None
-180.121.253.81:1080::Hong Kong::None::None
-181.102.40.37:1080::Argentina::None::None
+173.244.200.157:32961::United States::Minnesota::Saint Paul
+180.165.96.207:1080::United States::California::Los Angeles
 182.150.46.26:7890::China::Sichuan::Chengdu
-185.179.196.19:1084::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1086::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1087::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1088::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1089::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1095::Russia::St.-Petersburg::St Petersburg
-186.126.117.102:1080::Argentina::None::None
-192.3.176.138:1080::Netherlands::None::None
-210.16.73.85:1080::Philippines::Calabarzon::Paranaque City
-213.186.119.38:59311::Ukraine::None::None
+188.132.153.3:14401::Turkey::None::None
+193.162.105.1:1080::Turkey::Istanbul::Istanbul
+198.37.103.72:62220::United States::Oregon::Bend
+210.16.73.81:1080::Philippines::Calabarzon::Paranaque City
 221.216.139.167:1080::United States::Illinois::Elk Grove Village
