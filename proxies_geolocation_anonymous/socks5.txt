@@ -1,47 +1,47 @@
-5.61.53.57:9070::Germany::None::None
+5.61.53.57:9070::Luxembourg::Mersch::Bissen
 5.61.53.57:9090::United States::None::None
-5.61.53.57:9150::United States::Massachusetts::Cambridge
-5.105.1.86:16379::United States::None::None
-5.167.53.191:9999::France::None::None
-8.131.254.15:9999::China::Beijing::Beijing
-8.210.163.246:50019::United States::None::None
+5.105.1.86:16379::Hungary::Budapest::Budapest
+8.129.71.143:1080::Taiwan::Changhua::Chang-hua
 27.22.85.58:8100::United States::Texas::Richardson
+35.223.101.235:9050::United States::None::None
 36.27.223.70:64609::China::Shandong::Jining
+36.27.223.80:22036::China::Guangdong::Shantou
+43.132.190.227:28818::South Korea::None::None
+43.132.190.227:28821::South Korea::None::None
 43.132.190.227:28826::South Korea::None::None
 43.132.190.227:28839::South Korea::None::None
-47.75.113.110:10003::Hong Kong::Central and Western District::Central
-47.75.113.110:10011::Hong Kong::Central and Western District::Central
-47.110.233.7:1080::United States::California::Los Angeles
-47.115.149.82:443::Hong Kong::Central and Western District::Central
+45.221.76.114:8080::Uganda::None::None
 52.80.153.1:1080::United States::California::Los Angeles
-54.164.207.56:9050::Austria::None::None
-83.234.161.187:9999::Seychelles::None::None
-91.198.137.31:3554::Germany::None::None
-104.255.170.63:59004::United States::Oregon::Bend
-104.255.170.63:62220::United States::Oregon::Bend
-104.255.170.70:53623::United States::Oregon::Bend
-104.255.170.89:53623::United States::Oregon::Bend
-104.255.170.90:62220::United States::Oregon::Bend
-117.89.143.221:1080::Taiwan::New Taipei::New Taipei
-122.4.47.137:10005::China::Shandong::Jinan
-139.162.151.176:9050::United States::None::None
+103.73.74.179:1080::Indonesia::West Java::Karawang
+103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
+103.121.41.165:1080::Pakistan::None::None
+104.238.66.161:31337::United States::None::None
+104.255.170.67:62686::United States::Oregon::Bend
+104.255.170.69:62686::United States::Oregon::Bend
+104.255.170.70:62220::United States::Oregon::Bend
+104.255.170.91:62686::United States::Oregon::Bend
+113.87.29.105:1080::Hong Kong::Kowloon City::Kowloon
+113.128.10.23:10003::China::Shandong::Jinan
+122.4.47.137:10006::China::Shandong::Hongjialou
 139.198.183.243:1080::Japan::Tokyo::Tokyo
-143.198.246.42:1080::United States::California::Santa Clara
-159.65.69.186:9200::United States::Nevada::Las Vegas
+156.241.163.173:8081::United States::California::Los Angeles
+156.241.167.104:8081::United States::California::Los Angeles
 162.144.64.112:14440::United States::None::None
-162.144.64.112:17329::United States::None::None
+162.144.64.112:15565::United States::None::None
 162.144.64.112:23393::United States::None::None
-162.144.64.112:23779::United States::None::None
 162.144.64.112:24030::United States::None::None
 162.144.64.112:26411::United States::None::None
-162.144.64.112:38067::United States::None::None
-164.132.58.157:9050::United States::None::None
-172.104.90.60:10031::Luxembourg::Luxembourg::Luxembourg
+162.144.64.112:56857::United States::None::None
+173.236.189.144:20888::United States::None::None
+173.244.200.158:62125::United States::Florida::Sarasota
+181.3.33.41:1080::Argentina::Cordoba::Cruz del Eje
 182.150.46.26:7890::China::Guangdong::Shenzhen
+183.15.120.193:1088::Singapore::None::None
+183.135.124.234:8888::Taiwan::New Taipei::New Taipei
+185.64.105.82:9050::Netherlands::None::None
+185.179.196.19:1084::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1085::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1088::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1095::Russia::St.-Petersburg::St Petersburg
-185.242.114.35:9050::United States::None::None
-198.37.103.72:62220::United States::Oregon::Bend
-221.216.139.167:1080::United States::Illinois::Elk Grove Village
-223.166.75.173:1080::Taiwan::New Taipei::New Taipei
+185.179.196.19:1086::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1097::Russia::St.-Petersburg::St Petersburg
+186.126.42.169:1080::Brazil::Sao Paulo::São Paulo
+211.136.100.154:7302::China::Shanghai::Huangpu
