@@ -1,27 +1,38 @@
-5.61.53.57:9070::Seychelles::None::None
-5.105.1.86:16379::Germany::Bavaria::Nuremberg
-43.132.190.227:28829::South Korea::None::None
+5.45.73.63:9050::United Kingdom::None::None
+5.61.53.57:9070::Romania::Bucuresti::Bucharest
+5.61.53.57:9595::Germany::None::None
+8.131.254.15:9999::China::Beijing::Beijing
+8.210.163.246:50019::Germany::None::None
+43.132.190.227:28821::South Korea::None::None
+43.132.190.227:28833::South Korea::None::None
 47.115.149.82:443::Hong Kong::Central and Western District::Central
-52.80.153.1:1080::United States::California::Los Angeles
-91.198.137.31:3501::United States::Nevada::Las Vegas
-104.255.170.64:64501::United States::Oregon::Bend
-113.77.85.219:1081::Singapore::None::None
-113.128.10.23:10003::China::Shandong::Jinan
-122.4.47.137:10003::China::Shandong::Jinan
-138.68.95.59:8080::United States::New York::Staten Island
+64.225.116.55:9050::Germany::Bavaria::Nuremberg
+91.198.137.31:3594::Switzerland::None::None
+104.238.66.161:31337::United States::None::None
+104.255.170.68:64501::United States::Oregon::Bend
+104.255.170.69:64501::United States::Oregon::Bend
+110.184.225.28:1080::United States::California::Fremont
+113.87.29.105:1080::Hong Kong::Kowloon City::Kowloon
+113.120.62.181:10005::China::Shandong::Jinan
+117.89.143.221:1080::Taiwan::New Taipei::New Taipei
+122.4.52.86:10003::China::Shandong::Jinan
+134.209.191.118:8530::Romania::Bucuresti::Bucharest
+134.209.191.118:8533::United States::New York::Staten Island
+139.198.183.243:1080::Japan::Tokyo::Tokyo
 151.80.171.162:64720::France::None::None
-159.65.69.186:9200::United States::None::None
-162.144.64.112:26411::United States::None::None
-162.144.64.112:35851::United States::None::None
-172.104.90.60:10031::Switzerland::Zurich::Langnau am Albis
-173.236.186.64:20888::United States::None::None
+159.65.69.186:9200::Germany::Bavaria::Nuremberg
+159.69.204.30:10694::Poland::None::None
+159.75.16.67:7890::Taiwan::New Taipei::New Taipei
+162.144.64.112:24030::United States::None::None
+173.236.187.82:20888::United States::None::None
 173.236.187.144:20888::United States::None::None
 173.236.189.144:20888::United States::None::None
+178.150.113.78:8080::Ukraine::None::None
 180.120.76.113:1080::Hong Kong::Sham Shui Po::Sham Shui Po
-182.18.95.196:1080::China::Beijing::Changping
+180.121.253.81:1080::Hong Kong::None::None
+181.5.252.172:1080::Argentina::Santa Fe::Rosario
+182.150.46.26:7890::China::Guangdong::Shenzhen
 185.179.196.19:1084::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1085::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1097::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1098::Russia::St.-Petersburg::St Petersburg
-193.162.105.1:1080::Turkey::Istanbul::Istanbul
-210.16.73.85:1080::Philippines::Calabarzon::Paranaque City
-218.79.109.143:1080::Japan::None::None
+223.166.75.173:1080::Taiwan::New Taipei::New Taipei
