@@ -1,29 +1,27 @@
-5.61.53.57:9053::United States::None::None
-5.105.1.86:16379::United States::Nevada::Las Vegas
-8.131.254.15:9999::China::Beijing::Beijing
-27.22.85.52:8100::United States::Texas::Richardson
-43.132.190.227:28826::South Korea::None::None
-43.132.190.227:28827::South Korea::None::None
-43.132.190.227:28833::South Korea::None::None
-54.164.207.56:9050::Netherlands::Flevoland::Swifterbant
-62.182.158.28:8000::India::Telangana::Hyderabad
-91.198.137.31:3517::Switzerland::Zurich::Zurich
-104.238.66.161:31337::United States::None::None
-104.248.63.18:30588::Luxembourg::Luxembourg::Luxembourg
-104.255.170.68:62686::United States::Oregon::Bend
+5.61.53.57:9070::Seychelles::None::None
+5.105.1.86:16379::Germany::Bavaria::Nuremberg
+43.132.190.227:28829::South Korea::None::None
+47.115.149.82:443::Hong Kong::Central and Western District::Central
+52.80.153.1:1080::United States::California::Los Angeles
+91.198.137.31:3501::United States::Nevada::Las Vegas
+104.255.170.64:64501::United States::Oregon::Bend
 113.77.85.219:1081::Singapore::None::None
-116.237.129.67:1080::Hong Kong::Central and Western District::Central
-122.4.47.137:10005::China::Shandong::Jinan
-159.69.204.30:10694::Germany::Bavaria::Nuremberg
-161.202.101.222:1080::United States::None::None
-162.144.64.112:14440::United States::None::None
-162.144.64.112:23393::United States::None::None
+113.128.10.23:10003::China::Shandong::Jinan
+122.4.47.137:10003::China::Shandong::Jinan
+138.68.95.59:8080::United States::New York::Staten Island
+151.80.171.162:64720::France::None::None
+159.65.69.186:9200::United States::None::None
 162.144.64.112:26411::United States::None::None
-162.144.64.112:38067::United States::None::None
-162.144.64.112:56857::United States::None::None
-173.236.186.215:20888::United States::None::None
+162.144.64.112:35851::United States::None::None
+172.104.90.60:10031::Switzerland::Zurich::Langnau am Albis
+173.236.186.64:20888::United States::None::None
+173.236.187.144:20888::United States::None::None
+173.236.189.144:20888::United States::None::None
 180.120.76.113:1080::Hong Kong::Sham Shui Po::Sham Shui Po
 182.18.95.196:1080::China::Beijing::Changping
-185.179.196.19:1085::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1084::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1097::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1098::Russia::St.-Petersburg::St Petersburg
-221.216.139.167:1080::United States::Illinois::Elk Grove Village
+193.162.105.1:1080::Turkey::Istanbul::Istanbul
+210.16.73.85:1080::Philippines::Calabarzon::Paranaque City
+218.79.109.143:1080::Japan::None::None
