@@ -1,61 +1,43 @@
-5.61.53.57:9050::Germany::Bavaria::Nuremberg
-5.61.53.57:9052::Austria::None::None
-5.61.53.57:9100::Hungary::Budapest::Budapest
-5.105.1.86:16379::Netherlands::None::None
-20.52.130.140:16379::United States::None::None
+5.61.53.57:9070::United States::None::None
+5.105.1.86:16379::United States::New York::Staten Island
 27.19.86.203:1080::United States::California::Los Angeles
-36.27.223.70:64312::China::Shanghai::Shanghai
+27.22.85.58:8100::United States::Texas::Richardson
 36.27.223.70:64609::China::Shanxi::Linfen
-43.132.190.227:28815::South Korea::None::None
-47.104.65.60:9666::India::Tamil Nadu::Chennai
-47.115.149.82:443::Hong Kong::Central and Western District::Central
-51.195.238.19:36326::United Kingdom::England::London
-54.243.27.255:9050::United States::Wyoming::Sheridan
-62.182.158.27:8000::India::Telangana::Hyderabad
-66.49.207.24:9050::United States::Maryland::Gambrills
-91.198.137.31:3507::Denmark::None::None
-91.198.137.31:3560::Netherlands::None::None
-91.198.137.31:3582::Netherlands::Gelderland::Arnhem
-95.216.181.107:9070::United States::None::None
-103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
-104.255.170.64:62686::United States::Oregon::Bend
+43.132.190.227:28839::South Korea::None::None
+47.110.233.7:1080::United States::California::Los Angeles
+80.87.194.27:9050::United States::None::None
+83.234.161.187:9999::Netherlands::Gelderland::Rozendaal
+91.134.50.251:1337::United States::None::None
+91.198.137.31:3524::Germany::None::None
+91.198.137.31:3528::Netherlands::None::None
+91.198.137.31:3583::United States::None::None
+91.198.137.31:3594::Germany::None::None
+103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
+104.238.66.161:31337::United States::None::None
 104.255.170.68:62686::United States::Oregon::Bend
-104.255.170.69:62686::United States::Oregon::Bend
-104.255.170.70:62686::United States::Oregon::Bend
-104.255.170.89:62686::United States::Oregon::Bend
-104.255.170.91:62686::United States::Oregon::Bend
-109.195.187.178:9150::Norway::Vestfold og Telemark::Sandefjord
 110.81.249.121:23456::United States::California::Los Angeles
-110.184.225.28:1080::United States::California::Fremont
-113.77.85.219:1081::Singapore::None::None
-113.120.33.207:10009::China::Shandong::Jinan
+113.120.36.86:10006::China::Shandong::Hongjialou
 113.120.62.181:10011::China::Shandong::Jinan
-113.128.10.23:10003::China::Shandong::Jinan
 114.249.17.148:1080::Hong Kong::None::None
-119.123.225.188:7890::Singapore::None::Singapore
+116.203.128.117:9050::United States::None::None
 122.4.47.57:10010::China::Shandong::Jinan
-122.4.47.137:10010::China::Shandong::Jinan
-134.209.191.118:8528::Seychelles::None::None
-138.68.6.227:9071::United States::None::None
-139.59.223.213:1080::Singapore::None::Singapore
-145.239.81.129:8007::United Kingdom::England::Mitcham
+122.4.47.137:10006::China::Shandong::Hongjialou
+140.255.150.115:1088::Argentina::Buenos Aires F.D.::Buenos Aires
 151.80.171.162:64720::France::None::None
-159.65.69.186:9200::United States::None::None
-159.253.45.30:8000::Turkey::None::None
-162.144.64.112:10555::United States::None::None
-162.144.64.112:14440::United States::None::None
-162.144.64.112:15565::United States::None::None
-162.144.64.112:23393::United States::None::None
+156.241.146.51:8081::United States::California::Los Angeles
 162.144.64.112:23779::United States::None::None
-162.144.64.112:38067::United States::None::None
-163.172.45.77:9050::France::Île-de-France::Maisons-Alfort
-164.132.58.157:9050::Luxembourg::Luxembourg::Luxembourg
-173.236.187.137:20888::United States::None::None
-180.121.253.81:1080::Hong Kong::None::None
-181.101.94.245:1080::United States::California::San Jose
+162.144.64.112:24030::United States::None::None
+162.144.64.112:26411::United States::None::None
+162.144.64.112:35851::United States::None::None
+163.172.45.77:9051::France::Île-de-France::Paris
+165.232.72.180:9150::Germany::Bavaria::Nuremberg
+173.236.187.82:20888::United States::None::None
+173.236.189.144:20888::United States::None::None
+178.150.113.78:8080::Ukraine::None::None
+180.165.96.207:1080::United States::California::Los Angeles
+185.179.196.19:1083::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1088::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1090::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1095::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1101::Russia::St.-Petersburg::St Petersburg
-188.132.153.3:14401::Turkey::None::None
-209.97.160.204:3091::Australia::New South Wales::Sydney
-218.79.109.143:1080::Japan::None::None
+192.3.176.138:1080::Netherlands::None::None
+193.162.105.1:1080::Turkey::Istanbul::Istanbul
