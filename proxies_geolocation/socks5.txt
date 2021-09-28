@@ -1,121 +1,115 @@
-5.61.53.57:9150::Switzerland::Zurich::Zurich
-5.105.1.86:16379::United States::Oregon::Hillsboro
-27.116.51.85:6667::India::Gujarat::Anand
+5.105.1.86:16379::Germany::None::None
+8.210.163.246:50019::Germany::None::None
+8.210.251.244:6666::Hong Kong::Central and Western District::Central
+8.210.251.244:24691::Hong Kong::Central and Western District::Central
+20.52.130.140:16379::United States::None::None
 27.116.51.92:6667::India::Gujarat::Anand
-27.116.51.119:6667::India::Gujarat::Anand
 31.7.232.178:1080::Russia::Nizhny Novgorod Oblast::Dzerzhinsk
-31.128.248.1:1080::Ukraine::Cherkasy Oblast::Heronymivka
 31.128.248.2:1080::Ukraine::Cherkasy Oblast::Heronymivka
 36.89.86.49:56845::Indonesia::Jakarta::Sunter Agung
-37.156.104.178:3327::Iraq::Erbil::Erbil
-37.187.72.30:57257::France::None::None
-43.129.181.158:52571::Hong Kong::Central and Western District::Central
-43.131.64.189:1080::Russia::Moscow::Moscow
+36.94.126.50:1080::Indonesia::Jakarta::Jakarta
 43.132.190.227:28821::South Korea::None::None
-43.132.190.227:28834::South Korea::None::None
+43.132.190.227:28833::South Korea::None::None
+43.132.190.227:28839::South Korea::None::None
 43.224.10.13:6667::India::Gujarat::Khambhat
-43.224.10.32:6667::India::Gujarat::Khambhat
-43.224.10.36:6667::India::Gujarat::Khambhat
-45.79.122.158:10000::India::Maharashtra::Mumbai
-47.52.238.234:10086::Hong Kong::Central and Western District::Central
+43.224.10.37:6667::India::Gujarat::Khambhat
+43.255.31.57:10808::Hong Kong::None::None
+45.192.161.163:3128::South Africa::Gauteng::Johannesburg
+46.101.218.6:53652::Germany::Hesse::Frankfurt am Main
+47.75.113.110:10007::Hong Kong::Central and Western District::Central
+47.105.138.127:8888::China::Shandong::Qingdao
+47.110.233.7:1080::United States::California::Los Angeles
 47.149.68.132:1080::United States::California::Temecula
-47.243.10.50:9123::Hong Kong::Central and Western District::Central
-47.243.171.222:7515::Hong Kong::Central and Western District::Central
-51.79.73.220:1080::Canada::None::None
-51.79.145.154:1080::Singapore::None::Singapore
-52.23.34.138:9050::Luxembourg::Luxembourg::Luxembourg
+47.240.226.173:7891::Hong Kong::Central and Western District::Central
 52.175.21.231:1080::Hong Kong::Central and Western District::Central
 68.183.130.112:19053::United States::New Jersey::North Bergen
-80.87.194.27:9050::Austria::None::None
 81.17.20.50:28110::Switzerland::Zurich::Zurich
+85.192.160.54:1180::Russia::Orenburg Oblast::Orenburg
 87.247.185.94:1080::United Arab Emirates::None::None
-88.202.177.242:1080::Netherlands::North Holland::Amsterdam
-95.169.187.58:9055::United States::None::None
+88.80.119.7:1080::Bulgaria::Blagoevgrad::Petrich
+88.202.177.242:1090::Netherlands::North Holland::Amsterdam
+91.134.50.251:1337::Austria::None::None
+91.198.137.31:3558::Germany::None::None
+93.179.94.133:5678::Russia::None::None
+95.131.48.75:14862::Hungary::None::None
 96.75.254.66:1080::United States::Indiana::Kokomo
-97.74.230.87:31365::United States::None::None
-103.85.232.20:1080::Bangladesh::Dhaka Division::Dhaka
+103.73.74.178:1080::Indonesia::West Java::Karawang
 103.112.162.170:1080::Indonesia::Jakarta::Jakarta
 103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
-103.216.82.43:6667::India::Rajasthan::Udaipur
+103.121.41.165:1080::Pakistan::None::None
+103.216.82.22:6667::India::Rajasthan::Udaipur
 103.231.241.102:1080::Philippines::None::None
-103.240.168.138:6667::India::Gujarat::Ahmedabad
-103.250.157.39:6667::India::Gujarat::Godhra
-103.250.166.17:6667::India::Gujarat::Gandhidham
-104.238.101.125:33794::United States::None::None
-104.255.170.63:59004::United States::Oregon::Bend
-104.255.170.64:62220::United States::Oregon::Bend
+104.238.66.161:31337::United States::None::None
+104.238.97.215:16398::United States::None::None
+104.248.63.18:30588::Germany::None::None
+104.255.170.64:62686::United States::Oregon::Bend
 104.255.170.65:50885::United States::Oregon::Bend
-104.255.170.65:53623::United States::Oregon::Bend
+104.255.170.65:56285::United States::Oregon::Bend
 104.255.170.66:62220::United States::Oregon::Bend
+104.255.170.67:53623::United States::Oregon::Bend
 104.255.170.69:53623::United States::Oregon::Bend
-104.255.170.89:53623::United States::Oregon::Bend
+104.255.170.89:62220::United States::Oregon::Bend
 104.255.170.90:62220::United States::Oregon::Bend
-106.55.153.76:1080::China::None::None
-109.72.231.37:1080::Russia::Moscow::Moscow
-113.87.29.105:1080::Hong Kong::Kowloon City::Kowloon
-113.120.33.207:10006::China::Shandong::Hongjialou
+113.120.33.207:10009::China::Shandong::Jinan
 113.120.36.86:10006::China::Shandong::Hongjialou
-113.120.62.181:10011::China::Shandong::Jinan
+113.120.62.181:10009::China::Shandong::Jinan
+113.128.10.23:10003::China::Shandong::Jinan
+113.128.10.23:10011::China::Shandong::Jinan
 113.160.188.21:1080::Vietnam::Hanoi::Hanoi
-114.249.17.148:1080::Hong Kong::None::None
 115.124.66.227:7878::Indonesia::West Java::Bekasi
-117.89.143.221:1080::Taiwan::New Taipei::New Taipei
-119.28.149.37:9151::Netherlands::None::None
+116.202.107.151:9988::Denmark::Capital Region::Copenhagen
 119.28.214.197:9150::United States::None::None
-120.196.228.230:1081::China::None::None
-120.196.237.162:1080::China::None::None
+120.79.192.116:1080::China::Guangdong::Shenzhen
+120.236.254.177:1080::China::None::None
+120.237.253.142:1080::China::None::None
 121.204.198.11:38801::China::None::None
-122.4.47.57:10010::China::Shandong::Jinan
-122.4.47.137:10006::China::Shandong::Hongjialou
-123.18.206.50:1080::Vietnam::Tinh Tuyen Quang::Son Duong
+122.4.47.137:10010::China::Shandong::Jinan
 123.129.219.11:1080::China::Beijing::Beijing
 123.129.219.228:1080::China::Beijing::Beijing
-128.199.14.67:12007::United States::California::Santa Clara
 128.199.202.105:16672::Singapore::None::Singapore
-128.199.213.193:9050::Germany::None::None
-134.209.191.118:8527::Switzerland::None::None
-139.198.179.174:3128::China::Shanghai::Shanghai
-139.198.183.243:1080::Japan::Tokyo::Tokyo
-143.110.238.119:999::United States::California::Santa Clara
-149.202.161.89:18701::France::None::None
+134.209.191.118:8527::Germany::None::None
+139.59.81.155:20348::India::Karnataka::Bengaluru
+139.59.162.234:7327::United Kingdom::England::London
+139.162.100.170:9050::Germany::Bavaria::Nuremberg
+139.198.121.76:8814::China::None::None
+150.129.151.62:6667::India::Gujarat::Surendranagar
 150.129.171.123:6667::India::Gujarat::Nadiad
-152.32.215.107:1080::Hong Kong::Central and Western District::Central
-156.241.167.157:8081::United States::California::Los Angeles
 157.245.147.1:1080::Singapore::None::Singapore
-159.65.225.8:54378::United States::New Jersey::North Bergen
-159.65.225.8:62612::United States::New Jersey::North Bergen
-159.75.112.233:7890::Italy::Latium::Rome
-162.144.64.112:14440::United States::None::None
-162.144.64.112:23393::United States::None::None
+159.253.45.30:8000::Turkey::None::None
+162.144.64.112:10555::United States::None::None
+162.144.64.112:15565::United States::None::None
+162.144.64.112:17329::United States::None::None
 162.144.64.112:23779::United States::None::None
+162.144.64.112:24030::United States::None::None
 162.144.64.112:35851::United States::None::None
-162.144.64.112:56857::United States::None::None
-165.22.223.92:57889::India::Karnataka::Bengaluru
-165.232.72.180:9150::Germany::Bavaria::Nuremberg
+162.144.64.112:38067::United States::None::None
+165.22.223.92:1718::India::Karnataka::Bengaluru
 166.62.38.100:38264::United States::None::None
 166.111.76.179:10080::China::None::None
-167.71.249.173:40801::United States::New Jersey::Clifton
+171.244.22.20:20937::Vietnam::Ho Chi Minh::Ho Chi Minh City
 171.244.22.20:48938::Vietnam::Ho Chi Minh::Ho Chi Minh City
-172.104.67.157:9050::United States::New York::Staten Island
-172.104.90.60:10031::Germany::None::None
-178.150.113.78:8080::Ukraine::None::None
-180.122.201.134:3000::China::Jiangsu::Jingjiang
-182.18.95.196:1080::China::Beijing::Changping
-182.107.173.75:30115::China::Shanghai::None
-183.15.120.193:1088::Singapore::None::None
+172.104.90.60:10031::United States::Nevada::Las Vegas
+178.141.253.11:9999::Russia::None::None
+182.150.46.26:7890::China::Guangdong::Shenzhen
+183.135.124.234:8888::Taiwan::New Taipei::New Taipei
+184.168.146.10:55794::United States::None::None
 185.69.153.71:13977::Ukraine::Kyiv City::None
-185.179.196.19:1081::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1086::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1095::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1097::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1101::Russia::St.-Petersburg::St Petersburg
-185.242.114.35:9050::United States::None::None
+185.213.213.110:1080::Russia::St.-Petersburg::St Petersburg
 188.166.104.152:18518::Netherlands::North Holland::Amsterdam
-188.241.45.142:2021::United Kingdom::England::Langho
 192.99.247.190:4145::Canada::Quebec::Drummondville
-192.187.102.130:9050::Seychelles::None::None
-195.158.197.13:1043::Ukraine::Kyiv City::Kyiv
-198.37.103.71:62220::United States::Oregon::Bend
-198.37.103.73:62220::United States::Oregon::Bend
+192.241.134.40:8838::United States::New Jersey::North Bergen
+198.37.103.74:62220::United States::Oregon::Bend
 198.199.86.148:29922::United States::New Jersey::North Bergen
-202.141.233.66:1080::Pakistan::None::None
-211.136.100.154:7302::China::None::None
+206.189.20.161:17302::United Kingdom::England::London
+206.189.20.161:31764::United Kingdom::England::London
+206.189.92.74:7777::Singapore::None::Singapore
+206.189.92.74:38888::Singapore::None::Singapore
+213.183.41.227:1080::Russia::Moscow::Moscow
+217.147.175.20:1088::Ukraine::None::None
 218.79.109.143:1080::Japan::None::None
+221.216.139.167:1080::United States::Illinois::Elk Grove Village
+223.166.75.173:1080::Taiwan::New Taipei::New Taipei
