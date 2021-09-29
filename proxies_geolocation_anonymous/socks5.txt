@@ -1,33 +1,28 @@
-5.61.53.57:9070::Romania::Bucuresti::Bucharest
+5.61.53.57:9100::Austria::None::None
+27.22.85.52:8100::United States::Texas::Richardson
+36.27.223.80:45475::China::Henan::Zhengzhou
+47.104.65.60:9666::India::Tamil Nadu::Chennai
 47.115.149.82:443::Hong Kong::Central and Western District::Central
-51.83.190.248:19050::Germany::None::None
-51.195.238.19:36326::United Kingdom::England::London
-52.80.153.1:1080::United States::California::Los Angeles
-66.49.207.24:9050::Netherlands::None::None
+51.83.190.248:19050::Norway::Vestfold og Telemark::Sandefjord
+54.164.207.56:9050::Poland::None::None
 81.69.222.190:7890::China::Jiangsu::Danyang
-104.238.66.161:31337::United States::None::None
-104.255.170.65:53623::United States::Oregon::Bend
-104.255.170.65:56285::United States::Oregon::Bend
-104.255.170.66:62686::United States::Oregon::Bend
-104.255.170.67:53623::United States::Oregon::Bend
-104.255.170.68:53623::United States::Oregon::Bend
-104.255.170.69:53623::United States::Oregon::Bend
-113.87.29.105:1080::Hong Kong::Tai Po District::Kwun Hang
-128.199.161.225:9050::United States::None::None
-139.198.183.243:1080::Japan::Tokyo::Tokyo
-151.80.171.162:64720::France::None::None
-159.65.69.186:9200::Luxembourg::Luxembourg::Luxembourg
-159.69.204.30:10196::Switzerland::Zurich::Zurich
-162.144.64.112:10555::United States::None::None
-162.144.64.112:17329::United States::None::None
-162.144.64.112:23779::United States::None::None
-162.144.64.112:24030::United States::None::None
-163.172.45.77:9050::France::Île-de-France::Paris
-167.71.172.18:9060::United States::None::None
-180.120.76.113:1080::Hong Kong::Sham Shui Po::Sham Shui Po
-183.135.124.234:8888::Singapore::None::Singapore
-185.179.196.19:1095::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1097::Russia::St.-Petersburg::St Petersburg
+91.198.137.31:3557::Austria::None::None
+104.248.63.18:30588::Germany::North Rhine-Westphalia::Düsseldorf
+104.255.170.63:56285::United States::Oregon::Bend
+104.255.170.64:62686::United States::Oregon::Bend
+104.255.170.68:62686::United States::Oregon::Bend
+121.5.103.9:7891::United States::Nevada::Las Vegas
+128.199.161.225:9050::Seychelles::None::None
+143.198.246.42:1080::United States::California::Santa Clara
+159.65.69.186:9200::United States::None::None
+159.253.45.30:8000::Turkey::None::None
+162.144.64.112:23393::United States::None::None
+162.144.64.112:26411::United States::None::None
+162.144.64.112:35851::United States::None::None
+162.144.64.112:38067::United States::None::None
+183.135.124.234:8888::Russia::None::None
+185.179.196.19:1081::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1088::Russia::St.-Petersburg::St Petersburg
 185.179.196.19:1101::Russia::St.-Petersburg::St Petersburg
-193.162.105.1:1080::Turkey::Istanbul::Istanbul
+213.186.119.60:59311::Ukraine::None::None
 221.216.139.167:1080::United States::Illinois::Elk Grove Village
