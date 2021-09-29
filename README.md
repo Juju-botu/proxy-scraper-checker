@@ -1,5 +1,7 @@
 # Proxy Scraper Checker 🤖
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
 **You can get proxies under the corresponding folders (updated every ~15 minutes)**
 
 Get and check free anonymous HTTP, SOCKS4, SOCKS5 proxies from different sources. Supports getting exit-node's geolocation for each proxy.
