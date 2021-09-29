@@ -1,28 +1,39 @@
-5.61.53.57:9100::Austria::None::None
+5.61.53.57:9070::Germany::None::None
+5.61.53.57:9150::Germany::Bavaria::Nuremberg
+5.61.53.57:9151::Japan::Tokyo::Tokyo
+5.61.53.57:9503::Canada::Quebec::Montreal
+5.105.1.86:16379::Netherlands::Flevoland::Dronten
 27.22.85.52:8100::United States::Texas::Richardson
+27.22.85.58:8100::United States::Texas::Richardson
 36.27.223.80:45475::China::Henan::Zhengzhou
-47.104.65.60:9666::India::Tamil Nadu::Chennai
 47.115.149.82:443::Hong Kong::Central and Western District::Central
-51.83.190.248:19050::Norway::Vestfold og Telemark::Sandefjord
-54.164.207.56:9050::Poland::None::None
+51.83.190.248:19050::Sweden::None::None
+52.80.153.1:1080::United States::California::Los Angeles
 81.69.222.190:7890::China::Jiangsu::Danyang
-91.198.137.31:3557::Austria::None::None
-104.248.63.18:30588::Germany::North Rhine-Westphalia::Düsseldorf
-104.255.170.63:56285::United States::Oregon::Bend
-104.255.170.64:62686::United States::Oregon::Bend
-104.255.170.68:62686::United States::Oregon::Bend
+91.198.137.31:3528::Luxembourg::Luxembourg::Luxembourg
+91.198.137.31:3556::United States::Nevada::Las Vegas
+103.73.75.33:1080::Indonesia::West Java::Karawang
+103.107.71.139:1080::Indonesia::Yogyakarta::Yogyakarta
+104.238.66.161:31337::United States::None::None
+104.255.170.65:56285::United States::Oregon::Bend
+104.255.170.67:62686::United States::Oregon::Bend
+104.255.170.68:62220::United States::Oregon::Bend
+104.255.170.89:62220::United States::Oregon::Bend
 121.5.103.9:7891::United States::Nevada::Las Vegas
-128.199.161.225:9050::Seychelles::None::None
+139.198.183.243:1080::Japan::Tokyo::Tokyo
 143.198.246.42:1080::United States::California::Santa Clara
-159.65.69.186:9200::United States::None::None
+159.65.69.186:9200::Netherlands::None::None
 159.253.45.30:8000::Turkey::None::None
+161.35.138.167:9050::Germany::None::None
+162.144.64.112:15565::United States::None::None
 162.144.64.112:23393::United States::None::None
 162.144.64.112:26411::United States::None::None
 162.144.64.112:35851::United States::None::None
-162.144.64.112:38067::United States::None::None
-183.135.124.234:8888::Russia::None::None
-185.179.196.19:1081::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1088::Russia::St.-Petersburg::St Petersburg
-185.179.196.19:1101::Russia::St.-Petersburg::St Petersburg
-213.186.119.60:59311::Ukraine::None::None
+162.144.64.112:56857::United States::None::None
+173.236.187.137:20888::United States::None::None
+180.120.76.113:1080::Hong Kong::Sham Shui Po::Sham Shui Po
+183.135.124.234:8888::Singapore::None::Singapore
+185.179.196.19:1082::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1097::Russia::St.-Petersburg::St Petersburg
+198.37.103.74:62220::United States::Oregon::Bend
 221.216.139.167:1080::United States::Illinois::Elk Grove Village
